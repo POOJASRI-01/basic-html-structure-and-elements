@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Favorite Movies</title>
+</head>
+
+<body>
+
+    <!-- This is a heading -->
+    <h1>My Favorite Movies</h1>
+
+    <!-- This is an ordered list -->
+    <ol>
+        <li>Shawshank Redemption</li>
+        <li>Inception</li>
+        <li>Dark Knight</li>
+    </ol>
+
+</body>
+</html>
